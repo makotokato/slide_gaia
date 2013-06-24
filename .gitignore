@@ -1,5 +1,6 @@
 .DS_Store
 .svn
+*.BAK
 log/*.log
 tmp/**
 node_modules/
